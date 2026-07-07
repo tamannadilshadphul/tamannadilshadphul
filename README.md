@@ -27,7 +27,8 @@ Hi, I'm Tamanna Dilshad Phul 👋
 To build skills in Bioinformatics and contribute to research through the power of Computer Science.
 
 ## Connect With Me
-https://orcid.org/0009-0007-5759-0936
+Orchid:https://orcid.org/0009-0007-5759-0936
+Google Scholar:https://scholar.google.com/citations?user=Wfr1mKIAAAAJ&hl=en
 
 
 <!--
