@@ -26,6 +26,10 @@ Hi, I'm Tamanna Dilshad Phul 👋
 🎯 Goal:
 To build skills in Bioinformatics and contribute to research through the power of Computer Science.
 
+## Connect With Me
+https://orcid.org/0009-0007-5759-0936
+
+
 <!--
 **tamannadilshadphul/tamannadilshadphul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
