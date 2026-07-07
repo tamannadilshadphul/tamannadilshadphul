@@ -13,6 +13,7 @@ Hi, I'm Tamanna Dilshad Phul 👋
 
 - C#
 - Python
+- R
 - Linux
 - Git & GitHub
 - Bioinformatics Tools
