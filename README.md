@@ -1,22 +1,30 @@
-# Hi, I'm Tamanna Dilshad Phul👋
+Hi, I'm Tamanna Dilshad Phul 👋
 
-🎓 CSE Student at AIUB
+🎓 CSE Student at American International University-Bangladesh (AIUB)
 
 🧬 Exploring Bioinformatics, AI & Computational Biology
 
 💻 Programming:
+
 - C++
 - Java
 
-🌱 Currently learning:
+🌱 Currently Learning:
+
 - C#
 - Python
 - Linux
 - Git & GitHub
-- Bioinformatics tools
+- Bioinformatics Tools
+
+🔬 Interests:
+
+- Computational Biology
+- Healthcare Technology
+- Research & Innovation
 
 🎯 Goal:
-To build skills in computational biology and research## 
+To build skills in Bioinformatics and contribute to research through the power of Computer Science.
 
 <!--
 **tamannadilshadphul/tamannadilshadphul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
